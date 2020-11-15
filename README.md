@@ -1,71 +1,70 @@
-# DBF Developer Challenge - Overview
+# Getting Started with Create React App
 
-The DBF Developer Challenge is a coding challenge for applicants to web developer positions at the Department of Banking and Finance, University of Zurich. We think that it is fairer and more realistic to judge the capabilities of applicants with a small task, rather than asking theoretical questions about technical topics.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-If you seek more information about us and what we work on at the DBF, check out <https://uzh-bf.github.io/joinus/>!
+## Available Scripts
 
-*Remember: It is okay to use Google to complete the challenge, you don't need to know everything by heart!*
+In the project directory, you can run:
 
-<br>
+### `npm start`
 
-## Application process
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-When you apply for a job at our department, you will:
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-1. Solve [Challenge Part 1](task_1.md): Create a small React app to show your technical abilities :robot:
-2. Solve [Challenge Part 2](task_2.md): Answer 3 practically-oriented questions to prove your knowledge :pencil2:
-3. Send us the results of your challenge for a quick evaluation :outbox_tray:
+### `npm test`
 
-Everybody that completes the challenge with a good standard (it does not have to be perfect) gets invited to a job interview. The challenge allows us to focus more on alignment of interests and your cultural fit rather than asking you a lot of technical questions :bell: However, we will most certainly talk to you about the challenge and your responses.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<br>
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<br>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Challenge Part 1: Web Development with React
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-For the first part of the challenge, you will need to create a **small React application** with basic Kanban board capabilities (maybe you know [Trello](https://trello.com/b/KaRKUPfD/demo-project)). By solving this challenge, you demonstrate that:
+### `npm run eject`
 
-- You can work with `git` and apply version control in your workflow.
-  - You commit your work regularly and in clear increments.
-- You know the most important principles of Web Development.
-- You can work with React and other JavaScript libraries.
-- You write understandable and extendable code (i.e., high-quality).
-  - Your code is readable and well-structured.
-  - You write efficient and simple code and apply programming patterns and abstractions where sensible.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Details and user stories can be found in [task_1](task_1.md). This task should take you about 1 hour to complete.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<br>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Challenge Part 2: Quiz
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-In the second part of the challenge, we ask you to select and answer **3 out of 5** questions. With your responses, you demonstrate that:
+## Learn More
 
-- You have relevant practical knowledge about web development and computer science.
-- You can understand the structure of a web app and use an IDE to support you.
-- You can evaluate and form your own opinion about a technology/framework.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Details and questions can be found in [task_2](task_2.md). This task should take you about 20 minutes to complete.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-<br>
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-<br>
+### Analyzing the Bundle Size
 
-## Checklist
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-All done? Please make sure you have completed everything in our application checklist:
+### Making a Progressive Web App
 
-- [ ] Filled out the application form on [joinus](https://uzh-bf.github.io/joinus/).
-- [ ] Forked this repository.
-  - Create a private fork if you do not want to make your results publicly available.
-- [ ] Created a new `create-react-app` in the `app` folder.
-- [ ] Implemented the user stories according to `task_1.md`.
-- [ ] Answered 3 questions and saved the answers in `task_2.md`.
-- [ ] Created a GitHub repository and pushed all of your results.
-- [ ] Shared the link to your repository with us when applying.
-  - Add `rschlaefli` and `mkllr888`, if you do not want to make your results publicly available.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
